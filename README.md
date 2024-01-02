@@ -1,4 +1,4 @@
-![logo]([https://github.com/Pawan7083/Pawan7083/blob/main/pawan_banner.png](https://www.canva.com/design/DAF2yUZRt5M/NuLRzcL1YWNlDoUNRXTwgQ/edit?utm_content=DAF2yUZRt5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![logo]([https://www.canva.com/design/DAF2yUZRt5M/NuLRzcL1YWNlDoUNRXTwgQ/edit?utm_content=DAF2yUZRt5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" width="300" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"></img>
